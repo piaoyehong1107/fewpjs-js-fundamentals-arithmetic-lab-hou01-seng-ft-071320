@@ -1,7 +1,7 @@
 
-var var1=2;
-var var2=31;
-var multiply= var1*var2;
+var num1=2;
+var num2=31;
+var multiply= num1*num2;
 
 var random=Math.ceil(Math.random()*10);
 
