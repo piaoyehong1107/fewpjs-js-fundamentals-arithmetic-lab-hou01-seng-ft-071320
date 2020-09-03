@@ -7,6 +7,6 @@ var random=Math.ceil(Math.random()*10);
 var mod= 16;
 mod %= 6;
 
-var mod=16 %= 3;
+
 
 var max=Math.max(1,2,20)
