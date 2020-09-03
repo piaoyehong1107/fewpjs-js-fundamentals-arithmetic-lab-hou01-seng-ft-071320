@@ -9,5 +9,4 @@ mod %= 6;
 
 var mod=16 %= 3;
 
-
 var max=Math.max(1,2,20)
